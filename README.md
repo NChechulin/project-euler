@@ -17,5 +17,5 @@ If you (by occasion) are a member of the community, think twice before going to 
 
 _This section will be updated regularly..._
 
--   **Solved:** 6
+-   **Solved:** 7
 -   **Total:** 727
